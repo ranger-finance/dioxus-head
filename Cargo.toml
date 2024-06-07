@@ -1,0 +1,13 @@
+[package]
+name = "dioxus-head"
+version = "0.1.0"
+authors = ["Pained Pineapple <github.com.nineteen128@passmail.net>"]
+edition = "2021"
+description = "Dixous library to manage the head of your HTML document"
+license = "MIT"
+repository = "https://github.com/ranger-finance/dioxus-head"
+
+[dependencies]
+dioxus = { version = "0.5.1" }
+tracing = "0.1.40"
+dioxus-logger = "0.5.0"
